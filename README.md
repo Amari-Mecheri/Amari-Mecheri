@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amari-Mecheri
 - 👀 I’m interested in digital transformation
 - 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on ambitious projects
-- 📫 How to reach me amari.mecheri@gmail.com
+- 💞️ I'm looking for projects
+- 📫 amari.mecheri@gmail.com
 
 <!---
 Amari-Mecheri/Amari-Mecheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
