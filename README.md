@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amari-Mecheri
 - 👀 I’m interested in digital transformation
 - 🌱 I’m currently learning GoLang
-- 💞️ I'm looking for projects
 - 📫 amari.mecheri@gmail.com
 
 <!---
