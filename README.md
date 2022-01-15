@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Amari-Mecheri
 - 👀 I’m interested in digital transformation
+- 🌱 I previously worked with VC++, C#, ASP .Net
 - 🌱 I’m currently developing With Go, React, Angular, JavaScript, WebAssembly
 - 📫 amari.mecheri@gmail.com
 
