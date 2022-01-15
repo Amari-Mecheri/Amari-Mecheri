@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amari-Mecheri
 - 👀 I’m interested in digital transformation
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently developing With Go, React, Angular, JavaScript, WebAssembly
 - 📫 amari.mecheri@gmail.com
 
 <!---
