@@ -5,7 +5,7 @@
 - I live in Algeria and take projects as they come
 - It involves a lot more coding since I'm in startup mode
 - 🌱 I worked with VC++, C#, ASP .Net
-- 🌱 I’m currently developing projects With Go, React, Angular, JavaScript, WebAssembly
+- 🌱 I’m currently developing projects With Flutter, React, Angular, JavaScript, WebAssembly, HTML, CSS and Go.
 - I'd be happy to join a team for new challenges.
 - 📫 amari.mecheri@gmail.com
 
