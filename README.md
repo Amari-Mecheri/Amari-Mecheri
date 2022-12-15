@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Amari-Mecheri
-- 👀 I’m an IT project manager and a passionate developer.
-- I have worked for big companies in banking, energy, industry and retail sectors.
-- I have worked as quality manager, PMO, team leader and project manager
+- 👀 I’m an IT project manager and a passionate software developer.
+- I have worked for companies in banking, energy, industry, transport and retail.
+- The roles I occupied: Software engineer, technical leader, project manager, PMO and quality manager
 - I live in Algeria and take projects as they come
-- It involves a lot more coding since I'm in startup mode
-- 🌱 I worked with VC++, C#, ASP .Net
+- It involves a lot more coding for small-sized companies
+- 🌱 I worked with VC++, C#, ASP .Net, Flutter
 - 🌱 I’m currently developing projects With Flutter, React, Angular, JavaScript, WebAssembly, HTML, CSS and Go.
 - I'd be happy to join a team for new challenges.
 - 📫 amari.mecheri@gmail.com
