@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amari-Mecheri
+- 👋 Hi, I’m Amari
 - 👀 I’m an IT project manager and a passionate software developer.
 - I have worked for companies in banking, energy, industry, transport and retail.
 - The roles I occupied: Software engineer, technical leader, project manager, PMO and quality manager
