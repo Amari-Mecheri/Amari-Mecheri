@@ -1,5 +1,4 @@
 Amari
-Algeria
 
 Professional with 20 years of work experience.
 Worked with colleagues from Europe, the UK, the USA, Asia, and Africa.
